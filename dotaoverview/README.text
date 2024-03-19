@@ -1,0 +1,24 @@
+Bonjour,
+
+IMPORTANT POUR QUE L API fonctionne veuillez vous inscrire via la commande "!myidsteam <id Steam> " Important a savoir je n'ai pas de fonction supprimer du Json
+du coup il faudra le changer directement dans la zone ou est situé votre Id discord et changer ça valeur si celle-ci est erroné
+
+
+
+Je vais vous facilité l'exploration de mon Bot
+Tout d'abord j'ai remarqué que trop tard comment mettre mes commande dans la tree de commande proposer par Discord
+J'ai tenter de faire une fonction search pour le speak about celle-ci ne fonctionne pas elle a besoin de changement plus precisement
+j'ai noter les endroits ou j'ai pris de l'aide 
+
+La fonction help fonctionne comme cela
+il faut taper help pour enclencher la discution
+et seulement repondre par "yes" ou "no"
+"resetdials" permet de reset le dialogue
+
+commande prefix "!" :
+lastcommand = show last command
+herolimit <hero id > <Nombre de jeux> = Le hero jouer et le nombre de jeux jouer*
+limit <nombre de jeux> = Le nombre des x derniere games
+lvl = L'avatar steam + le pourcentage de game win depuis le debut de nos games
+heroid = affiche tout les ID de chaque heros dans dota
+
