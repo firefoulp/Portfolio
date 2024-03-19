@@ -1,0 +1,50 @@
+body{
+    background: #000;
+    background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+#container {
+    max-width: 1400px;
+    margin: auto;
+}
+#my-canvas {
+    background: #000;
+    border: 1px solid #FFF;
+}
+h1{
+    color: #FFF;
+    text-align: center;
+    border: 3px solid green;
+}
+h2{
+    color: #FFF;
+    text-align: center;
+    border: 3px solid green;
+}
+#timer{
+    color: wheat;
+}
+p{
+    color: #FFF;
+    text-align: center;
+    border: 3px solid green;
+}
+body {
+    overflow-x: hidden;  
+  }
+  .button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
